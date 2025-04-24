@@ -1,6 +1,4 @@
-# README.md
-
-## Deskripsi
+# Deskripsi
 
 Proyek ini terdiri dari dua bagian utama:
 
