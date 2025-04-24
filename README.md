@@ -5,7 +5,7 @@ Proyek ini terdiri dari dua bagian utama:
 1. **Clustering**: Mengelompokkan profil siswa berdasarkan atribut demografi, minat, dan aktivitas sosial tanpa menggunakan label (unsupervised learning).
 2. **Klasifikasi**: Membangun model klasifikasi untuk memprediksi kelas tertentu (misalnya gender atau kategori lain) dari data yang sudah dilabeli.
 
-Kode ini dirancang untuk membantu Anda memahami alur kerja end-to-end pada analisis data, mulai dari Exploratory Data Analysis (EDA), preprocessing, hingga penerapan algoritma machine learning.
+Kode ini dirancang untuk membantu memahami alur kerja end-to-end pada analisis data, mulai dari Exploratory Data Analysis (EDA), preprocessing, hingga penerapan algoritma machine learning.
 
 ---
 
@@ -23,7 +23,7 @@ Kode ini dirancang untuk membantu Anda memahami alur kerja end-to-end pada anali
 
 ## Prasyarat
 
-Pastikan Anda menginstal dependensi berikut (contoh menggunakan `pip`):
+Pastikan untuk menginstal dependensi berikut (contoh menggunakan `pip`):
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
@@ -57,7 +57,7 @@ from sklearn.metrics import silhouette_score
 
 ### 1.2. Memuat Dataset
 
-- Mount Google Drive (jika menggunakan Colab).
+- Mount Google Drive.
 - Baca file CSV ke DataFrame pandas.
 
 ```python
