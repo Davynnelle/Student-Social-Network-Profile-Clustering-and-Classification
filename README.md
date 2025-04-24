@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 1. Clustering
 
-**Notebook**: `clustering.ipynb`
+**Notebook**: `[Clustering]_Submission_Akhir_BMLP_Dhea_Yuza_Fadiya.ipynb`
 
 ### 1.1. Import Library
 - `pandas`, `numpy` untuk manipulasi data.
@@ -131,7 +131,7 @@ df.to_csv('output/dataset_clustering.csv', index=False)
 
 ## 2. Klasifikasi
 
-**Notebook**: `classification.ipynb`
+**Notebook**: `[Klasifikasi]_Submission_Akhir_BMLP_Dhea_Yuza_Fadiya.ipynb`
 
 ### 2.1. Import Library
 
