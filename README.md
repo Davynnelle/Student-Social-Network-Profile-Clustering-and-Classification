@@ -1,4 +1,4 @@
-# Deskripsi
+# Student-Social-Network-Profile-Clustering-and-Classification
 
 Proyek ini terdiri dari dua bagian utama:
 
